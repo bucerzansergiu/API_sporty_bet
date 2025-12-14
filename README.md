@@ -11,7 +11,6 @@ A comprehensive, clean, and maintainable Python API automation framework for tes
 - [Running Tests](#running-tests)
 - [Test Cases](#test-cases)
 - [Validation Strategy](#validation-strategy)
-- [Design Principles](#design-principles)
 
 ## ✨ Features
 
