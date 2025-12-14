@@ -4,7 +4,7 @@ import os
 
 # API Configuration
 API_BASE_URL = "https://api.weatherstack.com"
-API_KEY = "b6c3ba2323249a96c37b7eff8c1c2d89"
+API_KEY = os.getenv("WEATHERSTACK_API_KEY")
 
 # Request Configuration
 TIMEOUT = 10  # seconds
