@@ -152,3 +152,6 @@ pytest tests/ --html=report.html --self-contained-html
   - Current weather: 4 test cases
   - Historical weather: 1 test case
   - Forecast weather: 1 test case
+
+> **⚠️ Note:** The historical and forecast endpoints require a paid Weatherstack plan. If using a free tier key, these tests will fail with error 104/105!
+
